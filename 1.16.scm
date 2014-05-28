@@ -28,5 +28,3 @@
      (else (expt-iter b (- n 1) (* a b)))))
   (expt-iter b n 1))
 
-
-
